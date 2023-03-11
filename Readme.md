@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_binary_classification)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_binary_classification)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_binary_classification)
+
 # Redes Neurais artificiais: Identificação de tumores de câncer
 
 
