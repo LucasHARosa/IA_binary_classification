@@ -21,7 +21,7 @@ Apesar dessas limitações, as redes neurais artificiais continuam a ser uma ár
 
 ## Problema
 
-Esse projeto tem como objetivo realizar uma classificação binária de um diagnóstico médico, se o tumor é cancerígeno ou não. Temos como base de treinamento um dataframe com 30 aspectos ds tumores e seus respectivos resultados. Com isso somos capazes de determinar a partir de uma entrada se o tmor é benigno ou não.
+Esse projeto tem como objetivo realizar uma classificação binária de um diagnóstico médico, se o tumor é cancerígeno ou não. Temos como base de treinamento um dataframe com 30 aspectos de tumores e seus respectivos resultados. Com isso somos capazes de determinar a partir de uma entrada se o tumor é benigno ou não.
 
 ## Arquivos
 
@@ -29,11 +29,11 @@ Treinamento da rede neural com divisão da base entre treinamento e testes
 
     breast_cancer_simple.py
 
-Treinamento da rede neural crzada, onde todos os dados são trinados e testados
+Treinamento da rede neural cruzada, onde todos os dados são treinados e testados
 
     breast_cancer_crusade.py
 
-Trenamento para encontrar os melhores parâmetros
+Trienamento para encontrar os melhores parâmetros
 
     breast_cancer_tuning.py
 
