@@ -2,10 +2,11 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_binary_classification)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_binary_classification)
 
-# Redes Neurais artificiais: Identificação de tumores de câncer
+# Redes Neurais artificiais: Classificação binária
+## Identificação de tumores de câncer
 
 
-## Introdução
+### Introdução
 
 Redes neurais artificiais são modelos computacionais inspirados no funcionamento do cérebro humano. Elas são compostas por unidades interconectadas, conhecidas como neurônios artificiais, que trabalham juntas para realizar uma tarefa específica, como reconhecimento de padrões, classificação de dados ou previsão de valores.
 
@@ -19,11 +20,11 @@ No entanto, as redes neurais artificiais também têm algumas limitações. Elas
 
 Apesar dessas limitações, as redes neurais artificiais continuam a ser uma área de pesquisa ativa e uma ferramenta poderosa para resolver problemas complexos em uma variedade de áreas. Com a crescente disponibilidade de dados e avanços na computação, as redes neurais artificiais estão se tornando cada vez mais importantes em nossa sociedade tecnologicamente avançada.
 
-## Problema
+### Problema
 
 Esse projeto tem como objetivo realizar uma classificação binária de um diagnóstico médico, se o tumor é cancerígeno ou não. Temos como base de treinamento um dataframe com 30 aspectos de tumores e seus respectivos resultados. Com isso somos capazes de determinar a partir de uma entrada se o tumor é benigno ou não.
 
-## Arquivos
+### Arquivos
 
 Treinamento da rede neural com divisão da base entre treinamento e testes
 
