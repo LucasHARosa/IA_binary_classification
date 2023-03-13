@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_binary_classification)
 
 # Redes Neurais artificiais: Classificação binária
-## Identificação de tumores de câncer
+## Projeto: Identificação de tumores de câncer
 
 
 ### Introdução
